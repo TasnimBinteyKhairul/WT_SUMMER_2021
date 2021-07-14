@@ -41,7 +41,7 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`P_id`, `P_Name`, `P_Desc`, `P_Category`, `P_Price`, `P_Picture`) VALUES
-(1, 'asda', 'asdasd', 'asdas', 123, '../file/Screenshot_2017-02-27-19-20-46.jpg');
+(1, 'pizza', 'pizza is so yummy', 'food', 800, '../files/download.jpg');
 
 --
 -- Indexes for dumped tables
